@@ -42,7 +42,10 @@ Menu-driven system:
 2. Borrow Book
 3. Return Book
 4. View Books
-
 ---
 
+##  Screenshot 
+[ library app screenshot]
+https://github.com/kavyakunnerla/Library-management-system/blob/bfa57a800029d463238884f9b9afc122d1eb4330/Screenshot%20(285).png
+-------
 ⭐ This project showcases Java, DBMS, and backend logic skills.
